@@ -26,13 +26,13 @@
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/harshify/un-si-por-favor.git
+   git clone https://github.com/harshify/mon-amour.git
 
    ```
 
 2. Open in browser:
    ```bash
-   cd un-si-por-favor && open index.html
+   cd mon-amour && open index.html
    ```
    _No dependencies needed! Runs purely on vanilla web tech._
 
